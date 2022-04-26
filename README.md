@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Elliot La Fave, an aspiring software deveoper based in Manchester UK. I am working as a software developer at the General Medical Council doing an Apprenticeship software developer course.
+I'm Elliot La Fave, an aspiring software developer based in Manchester UK. I am working as a software developer at the General Medical Council doing an Apprenticeship software developer course.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/elliotlafave123/elliotlafave123.github.io)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/elliotlafave123/elliotlafave123.github.io)
